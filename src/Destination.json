@@ -1,0 +1,47 @@
+[
+    {
+        "id": "1",
+        "name": "20-Ton Mobile Crane",
+        "image": "Images/Destination-image-1.jpg",
+        "hours": "8 Hours",
+        "price": "$1500",
+        "location": "Ahmedabad",
+        "desc": "Ideal for small construction projects and tight urban spaces. Highly maneuverable and efficient."
+    },
+    {
+        "id": "2",
+        "name": "Crawler Crane 50-Ton",
+        "image": "Images/Destination-image-2.jpg",
+        "hours": "10 Hours",
+        "price": "$3200",
+        "location": "Mumbai",
+        "desc": "Perfect for long-term heavy lifting on construction and infrastructure sites."
+    },
+    {
+        "id": "3",
+        "name": "Hydraulic Truck Crane",
+        "image": "Images/Destination-image-3.jpg",
+        "hours": "6 Hours",
+        "price": "$1800",
+        "location": "Delhi",
+        "desc": "Versatile and road-ready for quick deployment. Great for mid-range lifting tasks."
+    },
+    {
+        "id": "4",
+        "name": "Tower Crane",
+        "image": "Images/Destination-image-4.jpg",
+        "hours": "Per Day",
+        "price": "$5000",
+        "location": "Chennai",
+        "desc": "Used for tall building construction. Maximum height and heavy-duty performance."
+    },
+    {
+        "id": "5",
+        "name": "Rough Terrain Crane 35-Ton",
+        "image": "Images/Destination-image-5.jpg",
+        "hours": "9 Hours",
+        "price": "$2500",
+        "location": "Hyderabad",
+        "desc": "Designed for off-road and rugged environments. Strong lifting power with stability."
+    }
+]
